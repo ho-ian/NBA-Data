@@ -1,17 +1,31 @@
 ,TEAM_ID,TEAM_NAME
-0,1610612748,Miami Heat
-1,1610612738,Boston Celtics
-2,1610612764,Washington Wizards
-3,1610612752,New York Knicks
-4,1610612763,Memphis Grizzlies
+0,1610612745,Houston Rockets
+1,1610612747,Los Angeles Lakers
+2,1610612738,Boston Celtics
+3,1610612748,Miami Heat
+4,1610612756,Phoenix Suns
 5,1610612757,Portland Trail Blazers
-6,1610612747,Los Angeles Lakers
-7,1610612742,Dallas Mavericks
-8,1610612751,Brooklyn Nets
-9,1610612749,Milwaukee Bucks
-10,1610612737,Atlanta Hawks
-11,1610612755,Philadelphia 76ers
-12,1610612746,LA Clippers
-13,1610612762,Utah Jazz
-14,1610612756,Phoenix Suns
-15,1610612743,Denver Nuggets
+6,1610612755,Philadelphia 76ers
+7,1610612744,Golden State Warriors
+8,1610612759,San Antonio Spurs
+9,1610612754,Indiana Pacers
+10,1610612751,New Jersey Nets
+11,1610612765,Detroit Pistons
+12,1610612746,Los Angeles Clippers
+13,1610612739,Cleveland Cavaliers
+14,1610612766,Charlotte Bobcats
+15,1610612742,Dallas Mavericks
+16,1610612762,Utah Jazz
+17,1610612743,Denver Nuggets
+18,1610612758,Sacramento Kings
+19,1610612750,Minnesota Timberwolves
+20,1610612749,Milwaukee Bucks
+21,1610612740,New Orleans Hornets
+22,1610612761,Toronto Raptors
+23,1610612752,New York Knicks
+24,1610612763,Memphis Grizzlies
+25,1610612737,Atlanta Hawks
+26,1610612741,Chicago Bulls
+27,1610612760,Oklahoma City Thunder
+28,1610612764,Washington Wizards
+29,1610612753,Orlando Magic
